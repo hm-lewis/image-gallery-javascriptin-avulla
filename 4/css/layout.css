@@ -25,6 +25,8 @@ ul {
     grid-template-columns: 120px 110px 110px 110px 500px;
     padding-inline-start: 1.5rem;
     padding-block: 1.5rem;
+    padding-inline-start: 1.5rem;
+    padding-block: 1.5rem;
     background-color: #C9C9C9;
 }
 
@@ -42,6 +44,8 @@ img#placeholder {
 
 p#descrition {
     padding: 1.54rem;
+}
+
 }
 
 /* media - query  */
