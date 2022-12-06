@@ -1,0 +1,49 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+section {
+    background-color: #CCCCCC;
+    margin: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    padding: 1rem;
+    letter-spacing: 1.5rem;
+    color: #C9C9C9;
+    font-family: sans-serif;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-inline-start: 1.5rem;
+    padding-block: 1.5rem;
+}
+
+ul > * {
+    flex-basis: auto;
+    flex-grow: 1;
+}
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+img#placeholder {
+    border: 1.5rem solid white;
+    margin-inline-start: 1.5rem;
+}
+
+p#descrition {
+    padding: 1.54rem;
+}
